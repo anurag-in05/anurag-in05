@@ -4,6 +4,8 @@
 
 </div>
 
+<div align="center">
+
 ## 🛠️ Technical Skills
 
 <div align="center">
@@ -46,6 +48,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
+
+<div align="center">
 
 ## 🤝 Let's Connect
 
