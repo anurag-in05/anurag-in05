@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a developer at IIT Delhi focused on AI/ML, MLOps, backend engineering, DevOps, and system design.
+I’m a developer at IIT Delhi focused on Data Science, LLMOps and System Design.
 <br>
 I build production-oriented systems and intelligent applications with an emphasis on performance, reliability, and real-world impact.
 <br>
