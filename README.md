@@ -4,7 +4,6 @@
 
 </div>
 
-<div align="center">
 
 ## 🛠️ Technical Skills
 
@@ -49,7 +48,6 @@
 
 </div>
 
-<div align="center">
 
 ## 🤝 Let's Connect
 
