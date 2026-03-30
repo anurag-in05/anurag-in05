@@ -1,8 +1,16 @@
-# Hi there, I'm Anurag 👋⚡
+# Hi there, I'm Anurag 👋
 
 <div align="center">
 
 </div>
+
+## 👨‍💻 About Me
+
+I’m a developer at IIT Delhi focused on AI/ML, MLOps, backend engineering, DevOps, and system design.
+<br>
+I build production-oriented systems and intelligent applications with an emphasis on performance, reliability, and real-world impact.
+<br>
+Currently exploring distributed systems, database internals, applied AI/ML, and competitive programming.
 
 
 ## 🛠️ Technical Skills
@@ -33,10 +41,8 @@
 ### 🧠 Generative AI & LLMs
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0EA5E9?style=for-the-badge&logo=graphql&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
-![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![RAG Pipeline](https://img.shields.io/badge/RAG-Pipeline-2563EB?style=for-the-badge&logo=googledocs&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
+![RAG](https://img.shields.io/badge/RAG-334155?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ### 🗄️ Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -55,8 +61,8 @@
 
 *"Building scalable systems and intelligent AI — one project at a time."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN](https://www.linkedin.com/in/anurag0307/))
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag0307/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anurag-in05)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anurag2005.iit@gmail.com)
 
 </div>
@@ -67,6 +73,6 @@
 
 ### 🌟 *"Systems + AI = Future Engineering"* 🌟
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=anurag-in05.profile.v1)
 
 </div>
